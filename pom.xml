@@ -7,12 +7,12 @@
     <parent>
         <groupId>dev.sitconsulting</groupId>
         <artifactId>sit-service-bom</artifactId>
-        <version>0.0.2</version>
+        <version>0.0.3</version>
     </parent>
 
     <groupId>dev.sitconsulting</groupId>
     <artifactId>sit-service-starter</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <packaging>pom</packaging>
 
     <organization>
