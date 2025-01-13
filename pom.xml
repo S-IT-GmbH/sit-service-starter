@@ -7,19 +7,19 @@
     <parent>
         <groupId>dev.sitconsulting</groupId>
         <artifactId>sit-service-bom</artifactId>
-        <version>0.0.3</version>
+        <version>0.0.1</version>
     </parent>
 
     <groupId>dev.sitconsulting</groupId>
     <artifactId>sit-service-starter</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <packaging>pom</packaging>
 
     <organization>
         <name>S-IT Application Engineering &amp; Consulting GmbH</name>
         <url>https://s-it.consulting</url>
     </organization>
-    <inceptionYear>2024</inceptionYear>
+    <inceptionYear>2025</inceptionYear>
     <licenses>
         <license>
             <name>MIT</name>
@@ -28,7 +28,7 @@
         </license>
     </licenses>
 
-    <description>S-IT Metrics Autoconfiguration</description>
+    <description>S-IT Service Starter</description>
     <url>https://github.com/S-IT-GmbH/${project.artifactId}</url>
 
     <properties>
