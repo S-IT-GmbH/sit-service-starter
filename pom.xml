@@ -6,14 +6,13 @@
 
     <parent>
         <groupId>dev.sitconsulting</groupId>
-        <artifactId>sit-library-bom</artifactId>
+        <artifactId>sit-service-bom</artifactId>
         <version>1.1.1</version>
     </parent>
 
     <groupId>dev.sitconsulting</groupId>
     <artifactId>sit-service-starter</artifactId>
-    <version>1.1.1</version>
-    <packaging>pom</packaging>
+    <version>1.1.2</version>
 
     <organization>
         <name>S-IT Application Engineering &amp; Consulting GmbH</name>
