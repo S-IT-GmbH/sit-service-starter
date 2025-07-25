@@ -12,8 +12,7 @@
 
     <groupId>dev.sitconsulting</groupId>
     <artifactId>sit-service-starter</artifactId>
-    <version>1.1.1</version>
-    <packaging>pom</packaging>
+    <version>1.1.2</version>
 
     <organization>
         <name>S-IT Application Engineering &amp; Consulting GmbH</name>
