@@ -28,6 +28,7 @@
         </license>
     </licenses>
 
+    <name>sit-service-starter</name>
     <description>S-IT Service Starter</description>
     <url>https://github.com/S-IT-GmbH/${project.artifactId}</url>
 
